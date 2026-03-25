@@ -64,7 +64,7 @@ tableBody.appendChild(filaActual);
   // ITERATION 2 - Delete Buttons
   
   // Your code goes here ...
-  
+    console.log("help me ironhack please :(")
   
 
   // ITERATION 3 - Like Buttons
